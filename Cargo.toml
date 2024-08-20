@@ -1,0 +1,14 @@
+[package]
+name = "sphericalmercator"
+description = "Tools to convert mercator meters, screen pixels (of square tiles), and WGS84 latitude/longitude."
+license = "MIT"
+repository = "https://github.com/geolonia/sphericalmercator"
+homepage = "https://github.com/geolonia/sphericalmercator"
+exclude = [
+  ".*"
+]
+version = "0.1.0"
+edition = "2021"
+
+[dev-dependencies]
+rand = "0.8.5"
